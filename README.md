@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhendong Lu</h1>
 <h3 align="center">A Master Student @NCSU</h3>
 
-Email: michaellu239@gmail.com  
+- 📫 How to reach me **michaellu239@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
