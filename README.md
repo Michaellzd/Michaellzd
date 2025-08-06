@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhendong Lu</h1>
-<h3 align="center">A Master Student @NCSU</h3>
+<h3 align="center">Indie Hacker</h3>
 
 - 📫 How to reach out me **michaellu239@gmail.com**
 
